@@ -22,6 +22,31 @@
     <artifactId>wikift-captcha</artifactId>
     <version>1.0.0</version>
 
+    <!-- licenses -->
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <!-- developer -->
+    <developers>
+        <developer>
+            <name>qianmoQ</name>
+            <roles>
+                <role>owner</role>
+            </roles>
+        </developer>
+    </developers>
+
+    <!-- organization -->
+    <organization>
+        <name>Apache Software Foundation</name>
+        <url>http://www.apache.org</url>
+    </organization>
+
     <dependencies>
         <dependency>
             <artifactId>junit</artifactId>
