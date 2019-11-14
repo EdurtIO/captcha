@@ -15,12 +15,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.wikift.captcha.utils;
+package com.edurt.captcha.utils;
 
-import com.wikift.captcha.enums.CalculateEnum;
-import com.wikift.captcha.enums.NumberEnum;
-import com.wikift.captcha.model.CaptchaEntity;
-import com.wikift.captcha.model.CaptchaResultEntity;
+import com.edurt.captcha.enums.CalculateEnum;
+import com.edurt.captcha.enums.NumberEnum;
+import com.edurt.captcha.model.CaptchaEntity;
+import com.edurt.captcha.model.CaptchaResultEntity;
 
 import java.awt.*;
 

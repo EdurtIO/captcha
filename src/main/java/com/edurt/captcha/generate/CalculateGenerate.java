@@ -15,10 +15,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.wikift.captcha.generate;
+package com.edurt.captcha.generate;
 
-import com.wikift.captcha.model.CaptchaResultEntity;
-import com.wikift.captcha.utils.CaptchaUtils;
+import com.edurt.captcha.model.CaptchaResultEntity;
+import com.edurt.captcha.utils.CaptchaUtils;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;

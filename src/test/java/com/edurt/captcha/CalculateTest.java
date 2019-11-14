@@ -15,11 +15,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.wikift.captcha;
+package com.edurt.captcha;
 
-import com.wikift.captcha.generate.CalculateGenerate;
-import com.wikift.captcha.model.CaptchaResultEntity;
-import com.wikift.captcha.utils.CaptchaUtils;
+import com.edurt.captcha.generate.CalculateGenerate;
+import com.edurt.captcha.model.CaptchaResultEntity;
+import com.edurt.captcha.utils.CaptchaUtils;
 import org.junit.Assert;
 import org.junit.Test;
 

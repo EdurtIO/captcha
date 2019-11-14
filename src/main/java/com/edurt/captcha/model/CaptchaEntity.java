@@ -15,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.wikift.captcha.model;
+package com.edurt.captcha.model;
 
 /**
  * 验证码实体类 <br/>

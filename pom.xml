@@ -18,8 +18,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.wikift</groupId>
-    <artifactId>wikift-captcha</artifactId>
+    <groupId>com.edurt.captcha</groupId>
+    <artifactId>captcha</artifactId>
     <version>1.0.0</version>
 
     <!-- licenses -->

@@ -1,11 +1,10 @@
-# wikift-captcha
+# Captcha
 
-wikift 验证码
+验证码
 
 ### 使用方式
 
 ```java
-
 CaptchaResultEntity captchaResultEntity = CalculateGenerate.generate();
 // 获取验证码图像
 captchaResultEntity.getImage();
@@ -13,5 +12,4 @@ captchaResultEntity.getImage();
 captchaResultEntity.getResult();
 // 获取验证码表达式
 captchaResultEntity.getExpression();
-
 ```
